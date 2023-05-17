@@ -1,4 +1,4 @@
-// Setup user routes
+// Setup comment routes
 
 const router = require("express").Router();
 const { Comment } = require("../../models");
