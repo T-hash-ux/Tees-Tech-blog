@@ -1,3 +1,5 @@
+// This is the Routes for the Dashboard
+
 const router = require("express").Router();
 const { Post } =require("../models/");
 const withAuth = require("../utils/auth");
