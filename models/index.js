@@ -1,3 +1,5 @@
+//  This code establishes associations (relationships) between the User, Post, and Comment models.
+
 const User = require('./User');
 const Post = require('./Post');
 const Comment = require('./Comment');
